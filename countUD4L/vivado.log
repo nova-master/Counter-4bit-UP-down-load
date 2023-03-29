@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jan 29 10:23:50 2023
+# Process ID: 10528
+# Current directory: C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10632 C:\Users\Anti-cheat-WIN10\3D Objects\countUD4L\countUD4L.xpr
+# Log file: C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L/vivado.log
+# Journal file: C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L/countUD4L.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/Anti-cheat-WIN10/Documents/countUD4L' since last save.
+WARNING: [Project 1-312] File not found as 'C:/Users/Anti-cheat-WIN10/3D Objects/Basys3_Master.xdc'; using path 'C:/Users/Anti-cheat-WIN10/Documents/Basys3_Master.xdc' instead.
+Scanning sources...
+Finished scanning sources
+WARNING: [Project 1-312] File not found as 'C:/Users/Anti-cheat-WIN10/3D Objects/Basys3_Master.xdc'; using path 'C:/Users/Anti-cheat-WIN10/Documents/Basys3_Master.xdc' instead.
+WARNING: [Project 1-312] File not found as 'C:/Users/Anti-cheat-WIN10/3D Objects/Basys3_Master.xdc'; using path 'C:/Users/Anti-cheat-WIN10/Documents/Basys3_Master.xdc' instead.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+update_compile_order -fileset sources_1
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Jan 29 10:26:56 2023...

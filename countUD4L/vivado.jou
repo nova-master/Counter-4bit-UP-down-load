@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Jan 29 10:23:50 2023
+# Process ID: 10528
+# Current directory: C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent10632 C:\Users\Anti-cheat-WIN10\3D Objects\countUD4L\countUD4L.xpr
+# Log file: C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L/vivado.log
+# Journal file: C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Anti-cheat-WIN10/3D Objects/countUD4L/countUD4L.xpr}
+update_compile_order -fileset sources_1
